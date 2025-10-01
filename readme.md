@@ -15,11 +15,15 @@
     ```bash
     git clone https://github.com/Flaviiooo/BUT3_PROJECT_ANGULAR.git
     ```
-2. Install dependencies:
+2. Go to repository
+    ```bash
+    cd my-video-jet
+    ```
+3. Install dependencies:
     ```bash
     npm install
     ```
-3. Run the development server:
+4. Run the development server:
     ```bash
     ng serve
     ```
